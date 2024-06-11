@@ -13,7 +13,7 @@ Sou um desenvolvedor especializado em soluções de e-commerce, com foco nas ár
 
 ## 🚀 Projetos
 
-### [Bel Foods](https://bel-pets-production.up.railway.app/)
+### [Bel Foods](https://bel-foods-production.up.railway.app/)
 E-commerce especializado com diversas funcionalidades, incluindo:
 
 - Adição, edição e exclusão de produtos
